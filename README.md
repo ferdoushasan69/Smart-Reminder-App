@@ -31,16 +31,18 @@ An Android application that helps job seekers track job opportunities and get ti
 
 ## 🔔 Notification Example
 
-> The app automatically triggers a local notification **3 minutes before** the job deadline as a demo (configurable to 24 hours in production).
+> The app automatically triggers a local notification 24 hours before the job deadline .
 
 ## 📷 Screenshots
 
-*(Add screenshots if available)*
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/aada343f-b99f-49c7-b0e3-6a8364736f13" width="45%" />
+  <img src="https://github.com/user-attachments/assets/28250ad1-e9b4-43e3-bc51-bba7f18aac9a" width="45%" />
+</p>
 
 ## 📦 APK Download
 
-[👉 Download the APK](#) *(replace with your actual link)*
-
+Apk Link : https://drive.google.com/drive/folders/1x3l-U3aryc-sdiMFzYBr6EAtSFfk0Jk3
 ## 📂 How to Run
 
 1. Clone the repo
