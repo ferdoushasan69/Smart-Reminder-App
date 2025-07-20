@@ -36,8 +36,8 @@ An Android application that helps job seekers track job opportunities and get ti
 ## 📷 Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/aada343f-b99f-49c7-b0e3-6a8364736f13" width="45%" />
-  <img src="https://github.com/user-attachments/assets/28250ad1-e9b4-43e3-bc51-bba7f18aac9a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2c08827e-879c-49e1-9440-a0b39ea38aee" width="45%" />
+  <img src="https://github.com/user-attachments/assets/599fa35c-6292-4f72-a1e0-53259cd45aa9" width="45%" />
 </p>
 
 ## 📦 APK Download
