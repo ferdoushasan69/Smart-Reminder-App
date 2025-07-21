@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Job Reminder App</string>
+    <string name="enter_your_title">Enter your title</string>
+    <string name="enter_your_company_name">Enter your company name</string>
+</resources>
